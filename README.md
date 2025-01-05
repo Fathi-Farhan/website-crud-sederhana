@@ -3,9 +3,10 @@
 # Hi there, I'm Muhammad Fathi Farhan 👋
 
 ## 🚀 About Me
-I'm a **First-year Information System Student at Gunadarma University** with 6 months of BootCamp experience in Samsung Innovation Campus Batch 4 as a **Full-stack Developer**. I have skills in **programming, database management, website development, bug fixing, and data analysis**. I enjoy collaborating and have strong interpersonal skills in **communication, critical thinking, and teamwork**. Currently, I'm focused on **Web Development**.
+Hey there! I'm Fathi, an enthusiastic **Information System student** at **Gunadarma University** with a passion for technology and problem-solving. With hands-on experience as a **Full-stack Developer** through the **Samsung Innovation Campus BootCamp**, I enjoy building things that make life easier and more efficient. Whether it's coding, managing databases, or crafting sleek websites, I'm always excited to learn and grow.
 
----
+I love collaborating with others, sharing ideas, and continuously improving my skills. Right now, I'm diving deeper into the world of **Web Development** and looking forward to creating impactful digital solutions.
+
 
 ## 🎓 Education
 - **Gunadarma University**  
