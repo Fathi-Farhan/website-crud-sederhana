@@ -1,77 +1,77 @@
-# website-crud-sederhana
+# Website CRUD Sederhana
 
-# Hi there, I'm Muhammad Fathi Farhan 👋
+Website CRUD Sederhana adalah sebuah proyek berbasis web yang menyediakan fitur CRUD (Create, Read, Update, Delete) untuk mengelola data secara sederhana. Proyek ini cocok untuk pemula yang ingin belajar tentang pengembangan aplikasi web dengan dasar operasi database.
 
-## 🚀 About Me
-Hey there! I'm Fathi, an enthusiastic **Information System student** at **Gunadarma University** with a passion for technology and problem-solving. With hands-on experience as a **Full-stack Developer** through the **Samsung Innovation Campus BootCamp**, I enjoy building things that make life easier and more efficient. Whether it's coding, managing databases, or crafting sleek websites, I'm always excited to learn and grow.
+## Stack yang Digunakan
 
-I love collaborating with others, sharing ideas, and continuously improving my skills. Right now, I'm diving deeper into the world of **Web Development** and looking forward to creating impactful digital solutions.
+Proyek ini dibangun menggunakan teknologi berikut:
+
+1. **Frontend**:
+   - HTML
+   - CSS
+   - JavaScript (Vanilla JS atau library terkait, jika digunakan)
+
+2. **Backend**:
+   - PHP (dengan framework atau native, tergantung implementasi)
+
+3. **Database**:
+   - MySQL
+
+4. **Server**:
+   - Localhost menggunakan XAMPP atau LAMP (Linux, Apache, MySQL, PHP).
+
+## Fitur-Fitur
+
+Website CRUD Sederhana ini memiliki fitur-fitur utama berikut:
+
+1. **Create**: Menambahkan data baru ke dalam database.
+2. **Read**: Menampilkan data yang ada dalam database dalam bentuk tabel.
+3. **Update**: Mengubah data yang sudah ada di dalam database.
+4. **Delete**: Menghapus data dari database.
+5. **Login**: Sistem login untuk mengakses fitur CRUD, dengan autentikasi berbasis username dan password.
+6. **Validasi Formulir**: Validasi sederhana untuk memastikan data yang dimasukkan sesuai.
+
+## Cara Install
+
+Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini di lingkungan lokal Anda:
+
+### Prasyarat
+- Pastikan Anda sudah menginstal XAMPP/LAMP atau server lokal lain yang mendukung PHP dan MySQL.
+- Git sudah diinstal di komputer Anda.
+
+### Langkah-langkah
+
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/Fathi-Farhan/website-crud-sederhana.git
+   ```
+
+2. **Pindah ke Direktori Proyek**
+   ```bash
+   cd website-crud-sederhana
+   ```
+
+3. **Pindahkan Folder ke Direktori Server Lokal**
+   - Salin folder proyek ke dalam direktori `htdocs` (untuk XAMPP) atau direktori web server lainnya.
+
+4. **Import Database**
+   - Buka phpMyAdmin di browser Anda.
+   - Buat database baru (misalnya: `crud_sederhana`).
+   - Import file SQL yang terdapat dalam folder proyek (biasanya bernama `database.sql`).
+
+5. **Konfigurasi Koneksi Database**
+   - Buka file konfigurasi (misalnya `config.php`) dalam proyek.
+   - Sesuaikan nama database, username, dan password sesuai dengan pengaturan server lokal Anda.
+
+6. **Jalankan Proyek**
+   - Buka browser dan akses proyek melalui URL berikut:
+     ```
+     http://localhost/website-crud-sederhana
+     ```
+
+### Catatan
+Pastikan semua dependensi dan ekstensi yang dibutuhkan (seperti ekstensi MySQL di PHP) sudah aktif di server lokal Anda.
 
 ---
+Jika Anda mengalami masalah atau memiliki pertanyaan, silakan buka *Issues* di repository ini.
 
-## 💼 Experience
-- **Head of Programming Division**  
-  *Samsung Innovation Campus Batch 4 (July 2022 - July 2023)*  
-  Managed programming tasks and collaborated on multiple projects.
-
-- **Volunteer**  
-  *I Am Okay (October 2024 - Present)*  
-  Contributed to mental health awareness initiatives through web projects.
-
----
-
-## 💻 Projects
-### 1. Employee Data Admin Page
-Developed an **admin page** for quick employee data input for a robotics club project using **HTML, Bootstrap, PHP, and CSS**.
-
-### 2. SIC Application Project
-Created a **web-based application** to manage data and export it to **CSV, Excel, PDF, and Print** using **HTML5, Bootstrap, PHP, CSS, and MySQL**.
-
-### 3. I Am Okay - Project WordPress
-Designed a **simple web page** focused on mental health using **WordPress**.
-
-### 4. IoT Device Solution Project
-Developed an **IoT device report** using **Raspberry Pi**.  
-📄 [Project Presentation](https://bit.ly/SIC_PPTProject)
-
-### 5. SIC Final Project
-Optimized connected devices for the **D'Manis website** as part of the **final project** for the SIC Bootcamp.  
-🎥 [Project Video](https://bit.ly/SIC-FinalProjectVideo)
-
----
-
-## 🛠️ Skills & Tools
-### Programming Skills
-- Programming
-- Database Management
-- Web Design
-- Bug Fixing
-- Data Analysis
-
-### Tools
-- Microsoft Office
-- HTML, CSS, JavaScript
-- Bootstrap
-- PHP
-- MySQL
-- WordPress
-- Raspberry Pi
-
-### Languages
-- **Bahasa Indonesia** (Native)
-- **English** (Intermediate)
-
----
-
-## 📫 Let's Connect!
-- 📧 Email: [fthfarhan12@gmail.com](mailto:fthfarhan12@gmail.com)
-- 💼 LinkedIn: [Muhammad Fathi Farhan](https://www.linkedin.com/in/muhammad-fathi-farhan-a136b628b)
-
----
-
-## 💬 Thank You!
-I'm open to **collaborations and new opportunities**! Feel free to contact me anytime.
-
----
-
-> _"Always learning, always growing."_
