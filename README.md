@@ -56,12 +56,11 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini di lin
 
 4. **Import Database**
    - Buka phpMyAdmin di browser Anda.
-   - Buat database baru (misalnya: `crud_sederhana`).
-   - Import file SQL yang terdapat dalam folder proyek (biasanya bernama `database.sql`).
+   - Import file SQL yang terdapat dalam folder proyek.
 
 5. **Konfigurasi Koneksi Database**
-   - Buka file konfigurasi (misalnya `config.php`) dalam proyek.
-   - Sesuaikan nama database, username, dan password sesuai dengan pengaturan server lokal Anda.
+   - Buka file konfigurasi dalam proyek.
+   - Sesuaikan nama database, username, dan password sesuai dengan pengaturan server lokal Anda (Jika database yang diberikan dalam proyek diubah).
 
 6. **Jalankan Proyek**
    - Buka browser dan akses proyek melalui URL berikut:
