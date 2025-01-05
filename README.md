@@ -7,16 +7,6 @@ Hey there! I'm Fathi, an enthusiastic **Information System student** at **Gunada
 
 I love collaborating with others, sharing ideas, and continuously improving my skills. Right now, I'm diving deeper into the world of **Web Development** and looking forward to creating impactful digital solutions.
 
-
-## 🎓 Education
-- **Gunadarma University**  
-  *Bachelor of Information Systems (2024 - Present)*  
-  Major: Computer Science and Information Technology
-
-- **MAN 15 Jakarta**  
-  *Graduated in 2024*  
-  Major: Ilmu Pengetahuan Alam (IPA)
-
 ---
 
 ## 💼 Experience
@@ -60,6 +50,12 @@ Optimized connected devices for the **D'Manis website** as part of the **final p
 
 ### Tools
 - Microsoft Office
+- HTML, CSS, JavaScript
+- Bootstrap
+- PHP
+- MySQL
+- WordPress
+- Raspberry Pi
 
 ### Languages
 - **Bahasa Indonesia** (Native)
@@ -70,7 +66,6 @@ Optimized connected devices for the **D'Manis website** as part of the **final p
 ## 📫 Let's Connect!
 - 📧 Email: [fthfarhan12@gmail.com](mailto:fthfarhan12@gmail.com)
 - 💼 LinkedIn: [Muhammad Fathi Farhan](https://www.linkedin.com/in/muhammad-fathi-farhan-a136b628b)
-- 📱 WhatsApp: +62 821-2638-0096
 
 ---
 
